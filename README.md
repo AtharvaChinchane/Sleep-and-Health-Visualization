@@ -96,4 +96,3 @@ An exploratory analysis project that combines multiple datasets to explore how s
 ## 🧑‍💻 Author
 
 **Atharva Chinchane**
-Explore the notebook here: [Sleep.ipynb on GitHub](https://github.com/AtharvaChinchane/Sleep-and-Health-Visualization/blob/main/Sleep.ipynb)
